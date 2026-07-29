@@ -47,7 +47,7 @@ nav ul {
   padding: 0;
 }
 
-nav ul a { color: var(--text); font-size: 0.95rem; }
+nav ul a { color: var(--accent); font-size: 0.95rem; }
 
 main {
   max-width: var(--max-width);
