@@ -106,6 +106,18 @@ h2 {
   font-size: 0.95rem;
 }
 
+.social-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.social-links .icon {
+  width: 1.1em;
+  height: 1.1em;
+  flex-shrink: 0;
+}
+
 .cv-buttons {
   display: flex;
   flex-wrap: wrap;
